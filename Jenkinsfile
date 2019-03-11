@@ -1,0 +1,3 @@
+algorithmiaPipelineScala {
+    algorithmiaRepo = "helloworldscala"
+}
